@@ -1,4 +1,4 @@
-# 🤖 Sistema de IA Simple
+
 
 📌 Proyecto básico de Inteligencia Artificial en Python.
 
